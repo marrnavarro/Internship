@@ -1,4 +1,4 @@
-## Script to create the compound scores for the baseline data and to then plot them against the CTG-repeat length, for 2 different scaling approaches
+## Script to create the compound scores for the baseline data and to then plot them against the CTG-repeat length, for 2 different scaling approaches ##
 
 ## Libraries
 library("readxl")
