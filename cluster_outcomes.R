@@ -1,4 +1,4 @@
-## Script to cluster the clinical outcome measures and to validate the resulting clusters
+## Script to cluster the clinical outcome measures and to validate the resulting clusters ##
 
 ## Libraries
 library("readxl")
