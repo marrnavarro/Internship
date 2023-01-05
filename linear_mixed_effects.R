@@ -1,4 +1,4 @@
-## Script to
+## Script to fit the linear mixed-effects models for each scaling approach and each compound score ##
 
 ## Libraries
 library(readxl)
