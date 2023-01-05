@@ -1,4 +1,4 @@
-## Script to generate a volcano plot and a histogram with the p-values from the regression coefficients
+## Script to generate a volcano plot and a histogram with the p-values from the regression coefficients ##
 
 ## Libraries
 library(ggplot2)
