@@ -290,6 +290,6 @@ lmer_fit_values[["compound"]][,3:8] <- as.numeric(unlist(lmer_fit_values[["compo
 
 ## Temporarily store and save results
 compound_fit_new <- lmer_fit_values$compound
-write.table(lmer_fit_values[["compound"]], file = paste("Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/fatigue_lmer_fit_compound_values.csv", sep=""))
-save(lmer_fit_values, file = "Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/fatigue_compound_coef.RDATA")
-save(lmer_fit, file = "Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/fatigue_compound_fits.RDATA")
+write.table(lmer_fit_values[["compound"]], file = paste("Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/physical_lmer_fit_compound_values.csv", sep=""))
+save(lmer_fit_values, file = "Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/physical_compound_coef.RDATA")
+save(lmer_fit, file = "Z:/Analysis_projects/MN_analyses/mixed_effects/minmax_scaling/new/physical_compound_fits.RDATA")
