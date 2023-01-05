@@ -1,4 +1,4 @@
-## Script to perform a PCA on gene expression data to see whether the sex and the age of the patients are correlated enough with the first PCs
+## Script to perform a PCA on gene expression data to see whether the sex and the age of the patients are correlated enough with the first PCs ##
 
 ## Libraries
 library(readxl)
